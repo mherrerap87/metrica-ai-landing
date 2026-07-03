@@ -2,6 +2,11 @@
 
 Landing estatica para vender el diagnostico inicial de automatizacion operativa.
 
+## Publicado
+
+- Repo: https://github.com/mherrerap87/metrica-ai-landing
+- URL provisional: https://mherrerap87.github.io/metrica-ai-landing/
+
 ## Archivos
 
 - `index.html` - pagina principal
@@ -22,8 +27,8 @@ RDAP publico:
 ## Publicacion recomendada
 
 Opcion rapida:
-1. Subir esta carpeta a Netlify, Vercel, Cloudflare Pages o GitHub Pages.
-2. En Squarespace Domains, apuntar `metricaai.com` al hosting elegido.
+1. El sitio ya esta publicado en GitHub Pages.
+2. En Squarespace Domains, apuntar `metricaai.com` a GitHub Pages.
 3. Configurar tambien `www.metricaai.com`.
 
 Opcion si se mantiene en Squarespace:
