@@ -130,12 +130,10 @@ h3 {
   align-items: center;
 }
 
-.brand-mark {
+.brand-logo {
   display: block;
-  flex: 0 0 24px;
-  width: 24px;
-  height: 24px;
-  object-fit: contain;
+  width: min(190px, 65vw);
+  height: auto;
 }
 
 .nav-pills {
